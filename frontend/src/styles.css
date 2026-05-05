@@ -1,0 +1,102 @@
+/* Page Layout */
+.container {
+  min-height: 100vh;
+  background-color: #f3f4f6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Card */
+.card {
+  width: 100%;
+  max-width: 600px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+/* Upload */
+.upload-container {
+  text-align: center;
+}
+
+.upload-text {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.file-input {
+  padding: 6px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+/* Editor */
+.section {
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.input-error {
+  border: 1px solid red;
+}
+
+/* Items */
+.items-header {
+  display: flex;
+  gap: 10px;
+  font-weight: bold;
+}
+
+.items-row {
+  display: flex;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.qty {
+  width: 60px;
+  padding: 6px;
+}
+
+.name {
+  flex: 1;
+  padding: 6px;
+}
+
+.price {
+  width: 80px;
+  padding: 6px;
+}
+
+/* Button */
+.button {
+  width: 100%;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: darkgreen;
+}

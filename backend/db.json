@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1777979329985,
+    "merchant": "Green Supermarket",
+    "date": "",
+    "total": 27.35,
+    "items": [
+      {
+        "name": "APPLE",
+        "amount": 1,
+        "quantity": 2
+      },
+      {
+        "name": "BANANA",
+        "amount": 1.5,
+        "quantity": 3
+      },
+      {
+        "name": "ORANGE",
+        "amount": 1.2,
+        "quantity": 2
+      },
+      {
+        "name": "PEAR",
+        "amount": 0.75,
+        "quantity": 1
+      },
+      {
+        "name": "GRAPES",
+        "amount": 3,
+        "quantity": 2
+      },
+      {
+        "name": "STRAWBERRY",
+        "amount": 2.5,
+        "quantity": 1
+      },
+      {
+        "name": "BLUEBERRY",
+        "amount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "KIWI",
+        "amount": 1.8,
+        "quantity": 2
+      },
+      {
+        "name": "WATERMELON",
+        "amount": 4.5,
+        "quantity": 1
+      },
+      {
+        "name": "LEMON",
+        "amount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "RASPBERRY",
+        "amount": 3,
+        "quantity": 1
+      },
+      {
+        "name": "MILK",
+        "amount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "CHEESE",
+        "amount": 2.8,
+        "quantity": 1
+      },
+      {
+        "name": "YOGURT",
+        "amount": 1.2,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 1777979351095,
+    "merchant": "Green Supermarket",
+    "date": "",
+    "total": 27.35,
+    "items": [
+      {
+        "name": "APPLE",
+        "amount": 1,
+        "quantity": 2
+      },
+      {
+        "name": "BANANA",
+        "amount": 1.5,
+        "quantity": 3
+      },
+      {
+        "name": "ORANGE",
+        "amount": 1.2,
+        "quantity": 2
+      },
+      {
+        "name": "PEAR",
+        "amount": 0.75,
+        "quantity": 1
+      },
+      {
+        "name": "GRAPES",
+        "amount": 3,
+        "quantity": 2
+      },
+      {
+        "name": "STRAWBERRY",
+        "amount": 2.5,
+        "quantity": 1
+      },
+      {
+        "name": "BLUEBERRY",
+        "amount": 2,
+        "quantity": 1
+      },
+      {
+        "name": "KIWI",
+        "amount": 1.8,
+        "quantity": 2
+      },
+      {
+        "name": "WATERMELON",
+        "amount": 4.5,
+        "quantity": 1
+      },
+      {
+        "name": "LEMON",
+        "amount": 0.6,
+        "quantity": 1
+      },
+      {
+        "name": "RASPBERRY",
+        "amount": 3,
+        "quantity": 1
+      },
+      {
+        "name": "MILK",
+        "amount": 1.5,
+        "quantity": 1
+      },
+      {
+        "name": "CHEESE",
+        "amount": 2.8,
+        "quantity": 1
+      },
+      {
+        "name": "YOGURT",
+        "amount": 3.2,
+        "quantity": 1
+      }
+    ]
+  }
+]

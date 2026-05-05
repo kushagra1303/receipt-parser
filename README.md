@@ -1,5 +1,19 @@
 # Receipt Parser
 
+## Setup
+
+### Backend
+- cd backend
+- npm install
+- cp .env.example .env
+# add your GEMINI_API_KEY
+- npm run dev
+
+### Frontend
+- cd frontend
+- npm install
+- npm start
+
 ## What did you build?
 
 I built a full-stack web application that allows users to upload a receipt image and extract structured data including merchant name, date, line items, and total using an LLM. The extracted data is presented in an editable UI where users can correct inaccuracies before saving. The corrected receipts are persisted in a JSON file on the backend.

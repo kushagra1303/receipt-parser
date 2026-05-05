@@ -6,7 +6,7 @@
 - cd backend
 - npm install
 - cp .env.example .env
-# add your GEMINI_API_KEY
+- add your GEMINI_API_KEY
 - npm run dev
 
 ### Frontend

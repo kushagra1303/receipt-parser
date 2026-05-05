@@ -105,3 +105,7 @@ On the UI side, the user can still proceed and manually correct values.
 1. Retrying blindly can increase latency and cost
 2. Failing silently is dangerous
 3. Giving control to the user keeps the system usable even when LLM output is imperfect
+
+## APP UI Response
+
+<img width="691" height="797" alt="receipt-parser" src="https://github.com/user-attachments/assets/51196fb8-791e-4ffd-990f-42c4914c6e46" />
